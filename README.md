@@ -3,11 +3,11 @@ Proyecto Python usando librería de Pandas sobre problemas de aparcamiento en NY
 
 Este proyecto forma parte del curso de Tecnologías para Datos Masivos. Se utiliza la librería **Pandas** para analizar un conjunto de datos sobre infracciones de estacionamiento en Nueva York.
 
-## Archivos incluidos
-- `ProyectoPandas_Github.ipynb`: Notebook principal con el análisis.
-- `sample_NYC_parking_issues.csv`: Dataset utilizado.
+## Contenido
+- `ProyectoPandas_Github.ipynb`: Notebook principal con el desarrollo del taller.
+- `sample_NYC_parking_issues.csv`: Conjunto de datos utilizado para el análisis.
 
-## Cómo ejecutar
-1. Clona este repositorio:
-   ```bash
-   git clone <URL_del_repositorio>
+ ## Para ejecutar
+ Clonar el repositorio: git clone https://github.com/santiagohdq/proyectopandas.git
+
+ 
